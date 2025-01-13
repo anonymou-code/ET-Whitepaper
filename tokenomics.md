@@ -2,9 +2,9 @@
 
 **Token Name:** ElipeToken (ET)&#x20;
 
-**Token Type:** ElipeToken is an BEP-20 token built on the ARB blockchain. This choice provides compatibility with the ARB ecosystem and allows for easy integration with existing wallets, exchanges, and decentralized applications (DApps).
+**Token Type:** ElipeToken is an ARB-20 token built on the ARB blockchain. This choice provides compatibility with the ARB ecosystem and allows for easy integration with existing wallets, exchanges, and decentralized applications (DApps).
 
-**Total Supply**: The total supply of ElipeToken is fixed at 200 million tokens. This finite supply ensures scarcity, which can potentially drive value over time.
+**Total Supply**: 2,100,000,000
 
 #### ElipeToken (ET) Token Distribution Table
 
