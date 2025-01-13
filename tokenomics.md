@@ -2,9 +2,19 @@
 
 **Token Name:** ElipeToken (ET)&#x20;
 
-**Token Type:** ElipeToken is an BEP-20 token built on the BSC blockchain. This choice provides compatibility with the BSC ecosystem and allows for easy integration with existing wallets, exchanges, and decentralized applications (DApps).
+**Token Type:** ElipeToken is an BEP-20 token built on the ARB blockchain. This choice provides compatibility with the ARB ecosystem and allows for easy integration with existing wallets, exchanges, and decentralized applications (DApps).
 
 **Total Supply**: The total supply of ElipeToken is fixed at 200 million tokens. This finite supply ensures scarcity, which can potentially drive value over time.
+
+#### ElipeToken (ET) Token Distribution Table
+
+| **Category**                    | **Percentage** | **Description**                                                                      |
+| ------------------------------- | -------------- | ------------------------------------------------------------------------------------ |
+| **Initial Coin Offering (ICO)** | 40%            | Allocated for initial fundraising to support development, marketing, and expenses.   |
+| **Team and Advisors**           | 20%            | Incentivizes the team and advisors to work towards the project's long-term success.  |
+| **Reserve**                     | 15%            | Reserved for future development, community initiatives, partnerships, and liquidity. |
+| **Ecosystem Fund**              | 15%            | Dedicated to building the ecosystem, funding DApps, community events, and adoption.  |
+| **Marketing and Partnerships**  | 10%            | Allocated for marketing activities, partnerships, and increasing project awareness.  |
 
 **Token Distribution:**
 
