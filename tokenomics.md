@@ -6,6 +6,8 @@
 
 **Total Supply**: 2,100,000,000
 
+**Contract**: 0xC9b3d568cDF5E5FAa64E60389e1D034415637Ae1
+
 #### ElipeToken (ET) Token Distribution Table
 
 | **Category**                    | **Percentage** | **Description**                                                                      |
